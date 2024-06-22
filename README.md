@@ -1,2 +1,2 @@
 # ROMAN GORDIENKO
-I am Linux system administator and devops engineer. 
+I am Linux system administrator and devops engineer. 
