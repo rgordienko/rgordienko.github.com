@@ -9,4 +9,4 @@ I am Linux system administrator and devops engineer.
 - Monitoring (Prometheus, Alertmanager, Grafana);
 - Log analysis (ELK, Fluent Bit);
 - CI/CD (Gitlab);
-- Misc (teleport, Sonatype Nexus Repository).
+- Misc (Teleport, Nexus Repository).
